@@ -31,7 +31,6 @@ By working on this project, interns gain practical exposure to Java I/O classes 
 Overall, this project not only enhances programming skills but also demonstrates how simple utilities can serve as a foundation for building more complex applications like text editors, log managers, and data processors.
 
 #output
-<img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/554984d4-40c0-43ed-b729-6abd974d9fb1" />
-[sample.txt](https://github.com/user-attachments/files/21957627/sample.txt)
-<img width="1215" height="698" alt="Image" src="https://github.com/user-attachments/assets/5ecc59a6-9007-4cae-a2e8-951ff14f4532" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/554984d4-40c0-43ed-b729-6abd974d9fb1" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/5ecc59a6-9007-4cae-a2e8-951ff14f4532" />
 
