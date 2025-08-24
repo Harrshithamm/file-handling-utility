@@ -29,3 +29,7 @@ The implementation is interactive, menu-driven, and user-friendly, allowing user
 By working on this project, interns gain practical exposure to Java I/O classes such as `FileWriter`, `BufferedWriter`, `FileReader`, and `BufferedReader`. This strengthens their understanding of Java’s file-handling capabilities and prepares them for handling real-world scenarios where persistent data management is required.
 
 Overall, this project not only enhances programming skills but also demonstrates how simple utilities can serve as a foundation for building more complex applications like text editors, log managers, and data processors.
+
+#output
+<img width="707" height="770" alt="Image" src="https://github.com/user-attachments/assets/554984d4-40c0-43ed-b729-6abd974d9fb1" />
+
