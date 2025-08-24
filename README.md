@@ -32,4 +32,6 @@ Overall, this project not only enhances programming skills but also demonstrates
 
 #output
 <img width="707" height="770" alt="Image" src="https://github.com/user-attachments/assets/554984d4-40c0-43ed-b729-6abd974d9fb1" />
+[sample.txt](https://github.com/user-attachments/files/21957627/sample.txt)
+
 
